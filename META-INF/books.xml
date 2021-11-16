@@ -1,3 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book />
+    <book slug="business-ethics" collection-id="col25722" href="../collections/business-ethics.collection.xml" />
 </container>
