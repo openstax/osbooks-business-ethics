@@ -1,0 +1,141 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Robotics, Artificial Intelligence, and the Workplace of the Future</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66987</md:content-id>
+  <md:title>Robotics, Artificial Intelligence, and the Workplace of the Future</md:title>
+  <md:abstract/>
+  <md:uuid>9bd6a71f-e5bb-449f-9a24-11a20d38fe96</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-idm361176256" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-idm364838208">By the end of this section, you will be able to:</para>
+<list id="fs-idm367714736">
+<item>Discuss the application of robotics and the workplace changes it will bring</item>
+<item>Identify artificial intelligence applications in the workplace</item>
+<item>Explain the ethical challenges presented by the use of artificial intelligence</item>
+</list>
+<para id="fs-idm374539520">As we have seen earlier in this chapter, general advances in computer technology have already enabled significant changes in the workplace. In this module, we will look at how future workforce demographics may be affected by existing and emerging technologies. The combination of automation and robotics has already changed not only the workplace but everyday life as well. It also comes with a host of ethical and legal issues, not least being where humans will fit in the workplace of tomorrow. Managers of the future may ask, “Does my company or society benefit from having a human do a job rather than a robot, or is it all about efficiency and cost?”</para>
+</section>
+<section id="fs-idm360962912">
+<title>Robotics and Automation in the Workplace</title>
+<para id="fs-idm363021312">Advances in the field of <term>robotics</term>—a combination of computer science, mechanical and electronics engineering, and science—have meant that machines or related forms of automation now do the work of humans in a wide variety of settings, such as medicine, where robots perform surgeries previously done by the surgeon’s hand. Robots have made it easier and cheaper for employers to get work done. The downside, however, is that some reasonably well-paying jobs that provided middle-class employment for humans have become the province of machines.</para>
+<para id="fs-idm363653376">A McKinsey Global Institute study of eight hundred occupations in nearly fifty countries showed that more than 800 million jobs, or 20 percent of the global workforce, could be lost to robotics by the year 2030.<cite id="rf-001-a" target-id="rf-001"><note class="delete-me" display="inline"/></cite> The effects could be even more pronounced in wealthy industrialized nations, such as the United States and Germany, where researchers expect that up to one-third of the workforce will be affected. By 2030, the report estimates that 39 million to 73 million jobs may be eliminated in the United States. Given that the level of employment in the United States in mid-2018 is approaching 150 million workers, this potential loss of jobs represents roughly one-quarter to one-half of total current employment (but a smaller share of employment in 2030 because of future population and employment growth).</para>
+<para id="fs-idm360630656">The big question, then, is what will happen to all these displaced workers. The McKinsey report estimates that about twenty million of them will be able to transfer easily to other industries for employment. But this still leaves between twenty million and more than fifty million displaced workers who will need new employment. Occupational retraining is likely to be a path taken by some, but older workers, as well as geographically immobile workers, are unlikely to opt for such training and may endure job loss for protracted periods.</para>
+<para id="fs-idm331846928">In developing countries, the report predicts that the number of jobs requiring less education will shrink. Furthermore, robotics will have less impact in poorer countries because these nations’ workers are already paid so little that employers will save less on labor costs by automating. According to the report, for example, by the same date of 2030, India is expected to lose only about 9 percent of its jobs to emerging technology.</para>
+<para id="fs-idm337276512">Which occupations will be most heavily affected? Not surprisingly, the McKinsey report concludes that machine operators, factory workers, and food workers will be hit hardest, because robots can do their jobs more precisely and efficiently. “It’s cheaper to buy a $35,000 robotic arm than it is to hire an employee who’s inefficiently making $15 an hour bagging French fries,” said a former McDonald’s CEO in another article about the consequences of robots in the labor market.<cite id="rf-002-a" target-id="rf-002"><note class="delete-me" display="inline"/></cite> He estimated that <term class="no-emphasis">automation</term> has already cut the number of people working in a McDonald’s by half since the 1960s and that this trend will continue. Other hard-hit jobs will include mortgage brokers, paralegals, accountants, some office staff, cashiers, toll booth operators, and car and truck drivers. The Bureau of Labor Statistics (BLS) estimates that eighty thousand fast-food jobs will disappear by 2024. As growing numbers of retail stores like Walmart, CVS, and McDonald’s provide automated self-checkout options, it has been estimated that 7.5 million retail jobs are at risk over the course of the next decade. Furthermore, it has been estimated that as self-driving cars and trucks replace automobile and truck drivers, five million jobs will be lost in the early 2020s.</para>
+<para id="fs-idm361341120">Jobs requiring human interaction are typically at low risk for being replaced by automation. These include nurses and most physicians, lawyers, teachers, and bartenders, as well as social workers (estimated by the BLS to grow by 19 percent by 2024), hairstylists and cosmetologists, youth sports coaches, and songwriters. McKinsey also anticipates that specialized lower-wage jobs like gardening, plumbing, and care work will be less affected by automation.</para>
+<para id="fs-idm373509664">The challenge to the economy, then, will be how to address the prospect of substantial job loss; about twenty million to fifty million people will not be able to easily find new jobs. The McKinsey report notes that new technology, as in the past, will generate new types of jobs. But this is unlikely to help more than a small fraction of those confronting unemployment. So the United States will likely face some combination of rapidly rising unemployment, an urgent need to retrain twenty million or more workers, and recourse to policies whereby the government serves as an employer of last resort.</para>
+<note id="fs-idm370782320" class="ethics-across">
+<title>Advances in Robotics in Japan</title>
+<para id="fs-idm359657392">Japan has long maintained its position as the world’s top exporter of robots, selling nearly 50 percent of the global market share in terms of both units and dollar value. At first, Japan’s robots were found mainly in factories making automobiles and electronic equipment, performing simple jobs such as assembling parts. Now Japan is poised to take the lead by putting robots in diverse areas including aeronautics, medicine, disaster mitigation, and search and rescue, performing jobs that human either cannot or, for safety reasons (such as defusing a bomb), should not do. Leading universities such as the University of Tokyo offer advanced programs to teach students not only how to create robots but also how to understand the way robot technology is transforming Japanese society. Universities, research institutions, corporations, and government entities are collaborating to implement the country’s next generation of advanced artificial intelligence robot technology, because Japan truly sees the rise of robotics as the “Fourth Industrial Revolution.”</para>
+<para id="fs-idm360648784">New uses of robots include hazardous cleanup in the wake of the 2011 earthquake and tsunami disaster that destroyed the Fukushima Daiichi nuclear power plant. After those events, Japan accelerated its development and application of disaster-response robots to go into radioactive areas and handle remediation.</para>
+<para id="fs-idm358585056">In the laboratory at the University of Tokyo School of Engineering, advances are also being made in technology that mimics the capabilities of the human eye. One application allows scientists a clear field of vision in extreme weather conditions that are otherwise difficult or impossible for humans to study.</para>
+<para id="fs-idm375688944">Japanese researchers are also developing a surgical robotic system with a three-dimensional endoscope to conduct high-risk surgery in remote mountainous regions with no specialized doctors. This system is in use in operating rooms in the United States as well, but Japan is taking it a step further by using it in <emphasis effect="italics">teletherapy,</emphasis> where the patient is hundreds of miles away from the doctor actually performing the surgery. In Japan’s manufacturing culture, robots are viewed not as threats but as solutions to many of the nation’s most critical problems. Indeed, with Japan’s below-replacement fertility since the mid-1970s, Japan’s work force has been aging quite rapidly; in fact, beginning in the period from 2010 to 2015, the Japanese population started shrinking. Clearly, robots are potentially quite important as a means to offset prospective adverse consequences of a diminishing labor force.</para>
+<para id="fs-idm364927600"><emphasis effect="bold">Critical Thinking</emphasis></para>
+<list id="fs-idm364707104" list-type="bulleted">
+<item>Does using robots cause a loss of jobs, a shifting of jobs, or both? How should society respond?</item>
+<item>How might the use of robots add to the increasing inequality in the U.S. economy?</item>
+<item>Do companies have an ethical responsibility to their workers to training or other support to workers displaced by automation?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm376580224">
+<title>Artificial Intelligence</title>
+<para id="fs-idm365525264">Although some robots are remotely controlled by a human operator or a computer program written by a human, robots can also learn to work without human intervention, and often faster, more efficiently, and more cheaply than humans can. The branch of science that uses computer algorithms to replicate human intelligent behavior by machines with minimal human intervention is called <term>artificial intelligence (AI)</term>. Related professions in which the implementation of AI might have particular impact are banking, financial advising, and the sales of securities and managing of stock portfolios.</para>
+<para id="fs-idm358018784">According to global consulting giant Accenture, AI is “a collection of advanced technologies that allows machines to sense, comprehend, act and learn.” Accenture contends that AI will be the next great advance in the workplace: “It is set to transform business in ways we have not seen since the Industrial Revolution; fundamentally reinventing how businesses run, compete and thrive. When implemented holistically, these technologies help improve productivity and lower costs, unlocking more creative jobs and creating new growth opportunities.”<cite id="rf-003-a" target-id="rf-003"><note class="delete-me" display="inline"/></cite> Accenture looked at twelve of the world’s most developed countries, which account for more than half of world economic output, to assess the impact of AI in sixteen specific industries. According to its report, AI has the potential to significantly increase corporate profitability, double rates of economic growth by 2035, increase labor productivity by as much as 40 percent, and boost gross value added by $14 trillion by 2035, based on an almost 40 percent increase in rates of return.<cite id="rf-004-a" target-id="rf-004"><note class="delete-me" display="inline"/></cite> Even news articles have begun to be written by robots.<cite id="rf-005-a" target-id="rf-005"><note class="delete-me" display="inline"/></cite></para>
+<note id="fs-idm372552672" class="link-to-learning">
+<para id="fs-idm363144288">Read this <link url="https://openstax.org/l/53AI">article about AI and its applications</link> and watch this <link url="https://openstax.org/l/53accountingAI">video about how automation and AI are changing the accounting profession</link> to learn more. Also, read this <link url="https://openstax.org/l/53startupAI">article about how some startups are creating new AI-related technology and products to automate accounting systems</link> to learn more.</para>
+</note>
+<para id="fs-idm360473792">A report by KPMG, another global consulting and accounting firm, indicates that almost 50 percent of the activities people perform in the workplace today could be automated, most often by using AI and automation technology that already exist. The ethical question facing the business community, and all of us on a broader level, is about the type of society in which we all want to live and the role automation will play in it. The answer is not simply about efficiency; a company should consider many variables as it moves toward increased automation (<link target-id="OSX_Ethics_10_04_Automation"/>).</para>
+<figure id="OSX_Ethics_10_04_Automation" class="scaled-down">
+<media id="fs-idm380373152" alt="This graphic shows a large circle in the middle and then four smaller circles around the outside of it that slightly overlap. The center circle says “issues to be considered when expanding the use of artificial intelligence.” Starting from the top and going clockwise, the circles around the outside say “company’s core values,” “cybersecurity,” “pace and extend of the automation process,” and “retraining and empowerment of workers.”">
+<image mime-type="image/jpeg" src="../../media/OSX_Ethics_10_04_Automation.jpg"/>
+</media>
+<caption>Managers should balance multiple variables as the workplace moves toward increased use of <term class="no-emphasis">artificial intelligence</term>, <term class="no-emphasis">automation</term>, and <term class="no-emphasis">robotics</term>. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="fs-idm375920736">For example, as AI programs become better able to interact with humans, especially online, should a company be required to inform its customers if and when they are dealing with any form of AI and not a person? If people cannot tell when they are communicating with an AI program and not a human being, has an AI-controlled computer or robot reached a form personhood? Why or why not? Although traditional business ethics can provide us with a starting place to answer such questions, we will also need a philosophical approach, because we also need to decide whether it is necessary to have consciousness to be considered a person. This issue is further muddied when a human employee largely is tapping AI i to serve customers or clients. Should this combination of human and AI assistance be made patently clear?</para>
+<para id="fs-idm367439120">Another issue in AI and all forms of automation is liability. According to Reuters News, “lawmakers in Europe have agreed on the need for [European Union]-wide legislation that would regulate robots and their use, including an ethical framework for their development and deployment, as well as the establishment of liability for the actions of robots, including self-driving cars.”<cite id="rf-006-a" target-id="rf-006"><note class="delete-me" display="inline"/></cite> The legal and ethical questions in assigning liability for decisions made by robots and AI are not only fascinating to debate but also an important legal matter society must resolve. The answers will one day directly affect the day-to-day lives of billions of people.</para>
+</section>
+<section id="fs-idm371286032" class="section-summary">
+<title>Summary</title>
+<para id="fs-idm365492816">Initially, robots and AI inspire both intrigue and fear in most of us. Fear of losing jobs is a reality, but so too is intrigue about what the future holds. A key for companies is to help workers retrain to become part of that future.</para>
+</section>
+<section id="fs-idm367768944" class="assessment-questions">
+<title>Assessment Questions</title>
+<exercise id="fs-idm374836512">
+<problem id="fs-idm375877248">
+<para id="fs-idm347425424">Robots have usually been operated by a human at the controls but now are becoming more independent. How?</para>
+</problem>
+<solution id="fs-idm337317280">
+<para id="fs-idm375780480">The development of artificial intelligence allows robots to act on their own much more often, meaning humans do not always control them.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm372254112">
+<problem id="fs-idm359429104">
+<para id="fs-idm363023488">Artificial intelligence and robotics in the United States are thus far largely unregulated. Do you see more regulations coming? Why or why not?</para>
+</problem>
+<solution id="fs-idm361171584">
+<para id="fs-idm361321840">Likely yes, for example in the area of self-driving cars, where we have already (in 2018) experienced a pedestrian’s death caused by a self-driving car.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm336749184">
+<problem id="fs-idm368098080">
+<para id="fs-idm375121424">The use of robots at work ________.</para>
+<list id="fs-idm378240608" list-type="enumerated" number-style="upper-alpha">
+<item>can reduce the exposure of humans to dangerous working conditions</item>
+<item>costs more than human labor</item>
+<item>must first be approved by the Occupational Safety and Health Administration</item>
+<item>is unlikely to affect the number of people in the overall workforce</item>
+</list>
+</problem>
+<solution id="fs-idm374733408">
+<para id="fs-idm360836336">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm367660384">
+<problem id="fs-idm360789504">
+<para id="fs-idm349065680">True or false? Worker displacement is a problem that companies have a legal duty to address when implementing the use of robots.</para>
+</problem>
+<solution id="fs-idm378667712">
+<para id="fs-idm375694848">False. Companies have no such duty.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm371003920">
+<problem id="fs-idm380239040">
+<para id="fs-idm366152784">Worker retraining programs for employees who lose their jobs to robots ________.</para>
+<list id="fs-idm351725280" list-type="enumerated" number-style="upper-alpha">
+<item>are a “Band-Aid” solution most of the time</item>
+<item>will be needed only for a small minority of the workers who lose their jobs</item>
+<item>are offered and funded by the employers only if a sufficient number of workers are displaced</item>
+<item>are an obligation taken on by ethical companies</item>
+</list>
+</problem>
+<solution id="fs-idm359185408">
+<para id="fs-idm367802768">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm407143344" class="references">
+<title>Endnotes</title>
+<note id="rf-001"><link target-id="rf-001-a"><span>1</span></link><span>“Robot Automation Will Take 800 Million Jobs by 2030,” <emphasis effect="italics">BBC</emphasis>, November 29, 2017. http://www.bbc.com/news/world-us-canada-42170100.</span></note>
+<note id="rf-002"><link target-id="rf-002-a"><span>2</span></link><span>Matt McFarland, “Robots: Is Your Job at Risk?” <emphasis effect="italics">CNN Money</emphasis>, September 15, 2017. http://money.cnn.com/2017/09/15/technology/jobs-robots/index.html.</span></note>
+<note id="rf-003"><link target-id="rf-003-a"><span>3</span></link><span>“What Is Artificial Intelligence (AI)?” Accenture. https://www.accenture.com/bg-en/artificial-intelligence-index (accessed January 15, 2018).</span></note>
+<note id="rf-004"><link target-id="rf-004-a"><span>4</span></link><span>“What Is Artificial Intelligence (AI)?” Accenture. https://www.accenture.com/bg-en/artificial-intelligence-index (accessed January 15, 2018).</span></note>
+<note id="rf-005"><link target-id="rf-005-a"><span>5</span></link><span>Chris Baraniuk, “Would You Care if This Feature Had Been Written by a Robot?” <emphasis effect="italics">BBC News</emphasis>, January 30, 2018. https://www.bbc.com/news/business-42858174.</span></note>
+<note id="rf-006"><link target-id="rf-006-a"><span>6</span></link><span>Ben Taylor, “Who’s Liable for Decisions AI and Robotics Make?” <emphasis effect="italics">BetaNews</emphasis>, March 21, 2017. https://betanews.com/2017/03/21/artificial-intelligence-robotics-liability/.</span></note>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm360703136">
+<term>artificial intelligence (AI)</term>
+<meaning id="fs-idm375170928">the branch of science that uses computer algorithms to replicate human intelligent behavior by machines with minimal human intervention</meaning>
+</definition>
+<definition id="fs-idm379606000">
+<term>robotics</term>
+<meaning id="fs-idm359597376">a field of research that includes computer science, mechanical and electronics engineering, and science process with the objective to produce robots, or related forms of automation, to replicate human tasks</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,128 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col25722</md:content-id>
+    <md:title>Business Ethics</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>914ac66e-e1ec-486d-8a9c-97b0f7a99774</md:uuid>
+<md:slug>business-ethics</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m68349"/>
+    <col:subcollection>
+      <md:title>Why Ethics Matter</md:title>
+      <col:content>
+        <col:module document="m68350"/>
+        <col:module document="m66941"/>
+        <col:module document="m66942"/>
+        <col:module document="m66943"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ethics from Antiquity to the Present</md:title>
+      <col:content>
+        <col:module document="m68355"/>
+        <col:module document="m66944"/>
+        <col:module document="m66945"/>
+        <col:module document="m66946"/>
+        <col:module document="m66947"/>
+        <col:module document="m66948"/>
+        <col:module document="m66949"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Defining and Prioritizing Stakeholders</md:title>
+      <col:content>
+        <col:module document="m68357"/>
+        <col:module document="m66950"/>
+        <col:module document="m66951"/>
+        <col:module document="m66952"/>
+        <col:module document="m66953"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Three Special Stakeholders: Society, the Environment, and Government</md:title>
+      <col:content>
+        <col:module document="m68359"/>
+        <col:module document="m66954"/>
+        <col:module document="m66955"/>
+        <col:module document="m66956"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Impact of Culture and Time on Business Ethics</md:title>
+      <col:content>
+        <col:module document="m68360"/>
+        <col:module document="m66957"/>
+        <col:module document="m66958"/>
+        <col:module document="m66959"/>
+        <col:module document="m66960"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>What Employers Owe Employees</md:title>
+      <col:content>
+        <col:module document="m68361"/>
+        <col:module document="m66962"/>
+        <col:module document="m66963"/>
+        <col:module document="m66964"/>
+        <col:module document="m66965"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>What Employees Owe Employers</md:title>
+      <col:content>
+        <col:module document="m68363"/>
+        <col:module document="m66966"/>
+        <col:module document="m66967"/>
+        <col:module document="m66968"/>
+        <col:module document="m66969"/>
+        <col:module document="m66970"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Recognizing and Respecting the Rights of All</md:title>
+      <col:content>
+        <col:module document="m68364"/>
+        <col:module document="m66971"/>
+        <col:module document="m66972"/>
+        <col:module document="m66973"/>
+        <col:module document="m66974"/>
+        <col:module document="m66977"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Professions under the Microscope</md:title>
+      <col:content>
+        <col:module document="m68362"/>
+        <col:module document="m66978"/>
+        <col:module document="m66979"/>
+        <col:module document="m66981"/>
+        <col:module document="m66980"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Changing Work Environments and Future Trends</md:title>
+      <col:content>
+        <col:module document="m68352"/>
+        <col:module document="m66984"/>
+        <col:module document="m66985"/>
+        <col:module document="m66986"/>
+        <col:module document="m66987"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Epilogue: Why Ethics Still Matter</md:title>
+      <col:content>
+        <col:module document="m68354"/>
+        <col:module document="m66988"/>
+        <col:module document="m66989"/>
+        <col:module document="m66990"/>
+        <col:module document="m66991"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m66992"/>
+    <col:module document="m66993"/>
+    <col:module document="m66996"/>
+  </col:content>
+</col:collection>
